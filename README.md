@@ -1,7 +1,9 @@
 # Yeet-The-Tweet
-I have too many embaressing old tweets I don't want to see anymore.
+I have many old tweets I don't want to see anymore.
 
-So I modified a python script from Quincy Larson.
+Many services online want to access my twitter account and charge me money.
+
+So I used a python script to delete all my tweets for free.
 
 ## how to use this
 Simply put, I downloaded my twitter archive straight from my twitter settings, found the consumer keys from twitter developer and combined everything together to automatically delete all my tweets from a certain date.
